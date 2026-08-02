@@ -12,6 +12,9 @@
     <a href="https://vaidora.in">
       <img src="https://img.shields.io/badge/VAIDORA.IN-0284C7?style=for-the-badge&logo=rocket&logoColor=white" alt="Vaidora Badge"/>
     </a>
+    <a href="https://vidhisar.in">
+      <img src="https://img.shields.io/badge/VIDHISAR.IN-0284C7?style=for-the-badge&logoColor=white" alt="VidhiSar Badge"/>
+    </a>
     <a href="https://codeforces.com">
       <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
     </a>
@@ -79,7 +82,7 @@
 
 I am a Product Builder and Founder with a B.Tech in CS & Engineering from LNMIIT Jaipur. 
 
-I specialize in taking products from 0 to 1—building end-to-end full-stack architectures, AI products, and scalable backend infrastructure for high-growth ventures. I am currently building **[Vaidora](https://vaidora.in)** (CTO & Co-Founder) and **VidhiSar AI** (Founder & CTO).
+I specialize in taking products from 0 to 1—building end-to-end full-stack architectures, AI products, and scalable backend infrastructure for high-growth ventures. I am currently building **[Vaidora](https://vaidora.in)** (CTO & Co-Founder) and **[VidhiSar AI](https://vidhisar.in)** (Founder & CTO).
 
 - **Team & Product Building:** Proven experience collaborating with cross-functional engineering teams to take complex products from concept to production.
 - **Engineering Experience:** Strong technical foundation across software engineering and data science (DataTerminal & TruEstate), architecting high-throughput microservices, property valuation engines, and real-time data pipelines.
@@ -93,7 +96,7 @@ I specialize in taking products from 0 to 1—building end-to-end full-stack arc
 | Venture | Role & Scope | Stack |
 | :--- | :--- | :--- |
 | **[Vaidora](https://vaidora.in)** | **CTO & Co-Founder** — AI-powered digital healthcare startup connecting patients with experienced Ayurvedic doctors through a seamless consultation platform. Focused on building an intuitive user experience and streamlining patient consultation workflows. | `React` `Node.js` `PostgreSQL` `AWS` |
-| **VidhiSar AI** | **CTO & Founder** — End-to-end AI-powered legal intelligence platform built from scratch using RAG, vector search, and LLMs. Engineered the complete system including document ingestion, embeddings, retrieval pipeline, contract analysis, semantic search, and an interactive AI chat interface. | `Python` `PyTorch` `FastAPI` `Redis` |
+| **[VidhiSar AI](https://vidhisar.in)** | **CTO & Founder** — End-to-end AI-powered legal intelligence platform built from scratch using RAG, vector search, and LLMs. Engineered the complete system including document ingestion, embeddings, retrieval pipeline, contract analysis, semantic search, and an interactive AI chat interface. | `Python` `PyTorch` `FastAPI` `Redis` |
 
 <br/>
 
@@ -120,7 +123,7 @@ I specialize in taking products from 0 to 1—building end-to-end full-stack arc
 | Project | System & Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | **[Vaidora](https://vaidora.in)** | AI-powered digital healthcare platform connecting patients with Ayurvedic doctors & streamlining consultation workflows. | `React` `Node.js` `PostgreSQL` |
-| **VidhiSar AI** | End-to-end AI legal intelligence platform with RAG, vector search embeddings, contract analysis & interactive AI chat. | `Python` `PyTorch` `FastAPI` |
+| **[VidhiSar AI](https://vidhisar.in)** | End-to-end AI legal intelligence platform with RAG, vector search embeddings, contract analysis & interactive AI chat. | `Python` `PyTorch` `FastAPI` |
 | **Gate Pass Portal** | Built for real campus and organization security teams featuring real-time QR generation, RBAC roles, and audit logging. | `TypeScript` `Express` `MongoDB` |
 | **Real Estate Price Estimator** | Predictive pricing machine learning pipeline engineered with company real estate data for accurate valuation scoring. | `Python` `Scikit-Learn` `Flask` |
 | **Object Detection QA** | Automated vision pipeline performing object detection, bounding-box verification, and spatial visual question answering (VQA). | `PyTorch` `OpenCV` `Python` |
